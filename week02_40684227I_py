@@ -14,6 +14,9 @@ def main(inputSTR):
     """
     print(messageSTR)
 
+    www = "洪珮榕 40684227I".split()
+    print(www[0])
+    print(www[1])
 
 #程式進入點！ week02.py 這支程式從這裡開始「執行」！
 if __name__ == "__main__":
